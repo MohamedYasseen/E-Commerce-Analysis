@@ -8,18 +8,16 @@ A SQL oriented project exploring facts and driving insights about Brazil E-comme
 
 ## Used Tools
 - DBeaver
-- PostgreSQL
-- VS CODE
-- GitHub
+- SQL(PostgreSQL & SQLite)
 
 ## DataSet
 Brazilian E-commerce Public Dataset by Olist
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-
-## Insights
-- Best sellers
-- Delivery Times
+## Explored Themes
+- Products as Best sellers
+- Delivery Times influence over review score
 - Average order value
 - Customer Distribution by State
+- Customers' purchasing patterns 
 
