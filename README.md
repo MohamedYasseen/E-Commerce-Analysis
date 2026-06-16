@@ -7,6 +7,7 @@ A SQL oriented project exploring facts and driving insights about Brazil E-comme
 
 
 ## Used Tools
+- DBeaver
 - PostgreSQL
 - VS CODE
 - GitHub
