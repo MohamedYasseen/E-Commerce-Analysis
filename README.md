@@ -9,6 +9,7 @@ A SQL oriented project exploring facts and driving insights about Brazil E-comme
 ## Used Tools
 - DBeaver
 - SQL(PostgreSQL & SQLite)
+- VSCode
 
 ## DataSet
 Brazilian E-commerce Public Dataset by Olist
